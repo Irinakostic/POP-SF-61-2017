@@ -1,0 +1,2 @@
+C:\Users\TEMP.FTN.013\Desktop\sf612017\POP-SF-61-2017\SF-61-2017\SF-61-2017\bin\Debug\SF-61-2017.exe.config
+C:\Users\TEMP.FTN.013\Desktop\sf612017\POP-SF-61-2017\SF-61-2017\SF-61-2017\obj\Debug\SF-61-2017.csprojResolveAssemblyReference.cache
